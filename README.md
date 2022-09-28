@@ -6,7 +6,7 @@
 
 
 ### Hi there, I am Burak <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-🧡 AWS and GCP Certified Cloud Architect<br>
+🧡 AWS and GCP Certified Professional Cloud Architect<br>
 💚 Hybrid Cloud Engineer at Upwork
 
 <p align="center">
