@@ -7,7 +7,7 @@
 
 ### Hi there, I am Burak <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 🧡 AWS and GCP Certified Professional Cloud Architect<br>
-💚 Hybrid Cloud Engineer at Upwork
+💚 AI/Data Engineer at Upwork
 
 <p align="center">
 <br>
@@ -15,7 +15,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Hybrid cloud engineer with four years of experience, motivated and open-minded. Calm, with a sense of priorities and organization. Obtained Bachelor’s Degree from the Computer Engineering Department at Bahcesehir University. Specialized in Cloud Computing. Estonia e-Residency program partner since 2019. Living in Turkey and open to relocation on a global level.
+AI/Data engineer with five years of experience, motivated and open-minded. Calm, with a sense of priorities and organization. Obtained Bachelor’s Degree from the Computer Engineering Department at Bahcesehir University. Specialized in Cloud Computing. Estonia e-Residency program partner since 2019. Living in Turkey and open to relocation on a global level.
 </p>
 <center>
 <br>
